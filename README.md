@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="color: #005CFF">
   <img src="https://media.tenor.com/HnurQKt7zSQAAAAC/jim-carrey-jim-carrey-typing.gif" width="600" alt="Coding GIF" />
   
   # 👋 Olá, eu sou o Gustavo! / Hello, I'm Gustavo!
@@ -53,7 +53,7 @@ My primary goal is to consistently evolve as a Full-Stack Developer, combining t
 ---
 
 <div align="center">
-  <h3>Let's connect! / Vamos nos conectar!</h3>
+  <h3 style="color: #005CFF">Let's connect! / Vamos nos conectar!</h3>
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fiabani-6b9979277/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.fiabani@gmail.com)
