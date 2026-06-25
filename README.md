@@ -40,7 +40,7 @@ I currently work as a **Front-End Development Intern** at **Avanti**, where I di
 
 At the moment, my focus is consolidating my foundation and exploring new frontiers of development:
 
-* 🌌 **VTEX IO Platform:** Specializing in the e-commerce ecosystem.
+* 🌌 **VTEX IO Platform:** Always learning more about store-framework, faststore, custom hooks, and modern e-commerce technologies.
 * 🧱 **Design Patterns:** Learning clean structures and architectures to keep code performant and organized.
 * 🔄 **Advanced Back-End:** Diving into GraphQL, REST APIs, and asynchronous request handling.
 
