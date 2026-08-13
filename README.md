@@ -33,7 +33,7 @@ I currently work as a **Front-End Development Intern** at **Avanti**, where I di
 
 ### APIs & Others
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=connectivity&logoColor=white)
-![GRAPHQL](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=connectivity&logoColor=white)
+![GRAPHQL]([https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=connectivity&logoColor=white](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white))
 
 ---
 
