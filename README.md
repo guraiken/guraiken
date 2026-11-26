@@ -1,19 +1,8 @@
-<div align="center">
-  <img src="https://media.tenor.com/HnurQKt7zSQAAAAC/jim-carrey-jim-carrey-typing.gif" width="600" alt="Coding GIF" />
+<div align="center"> 
+👋 Hey, Gustavo here!
   
-  # 👋 [Olá, eu sou o Gustavo! / Hello, I'm Gustavo!]()
-  
-  **Front-End Developer Intern @ Avanti** | *Loves coffee time and coding while drinking coffee time*.
+  **Full-stack Developer Intern at Avanti**.
 </div>
-
----
-
-## 💼 About Me & Current Role
-
-I currently work as a **Front-End Development Intern** at **Avanti**, where I dive headfirst into the high-performance e-commerce universe. I am expanding my horizons by architecting modern components and mastering the VTEX IO ecosystem.
-
-* 🚀 **Current Focus:** Diving deeper into both front-end and back-end technologies while applying best practices.
-* 🏗️ **Architecture:** Studying Design Patterns and clean code structures to build scalable software.
 
 ---
 
@@ -34,22 +23,6 @@ I currently work as a **Front-End Development Intern** at **Avanti**, where I di
 ### APIs & Others
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=connectivity&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-## 📚 Currently Learning & Evolving
-
-At the moment, my focus is consolidating my foundation and exploring new frontiers of development:
-
-* 🌌 **VTEX IO Platform:** Always learning more about store-framework, faststore, custom hooks, and modern e-commerce technologies.
-* 🧱 **Design Patterns:** Learning clean structures and architectures to keep code performant and organized.
-* 🔄 **Advanced Back-End:** Diving into GraphQL, REST APIs, and asynchronous request handling.
-
----
-
-## 🚀 Career Goals
-
-My primary goal is to consistently evolve as a Full-Stack Developer, combining the power of rich React interfaces with the solidity of efficient back-ends. I aim to master complex e-commerce ecosystems while sharpening my ability to solve real-world problems through technology.
 
 ---
 
